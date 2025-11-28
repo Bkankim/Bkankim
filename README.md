@@ -25,6 +25,6 @@ LLM/ML Engineer with a security-first background. I build retrieval/agent system
 
 ## Links
 - Portfolio: https://bkankim.github.io/
-- Resume: [assets/Resume.pdf](https://github.com/Bkankim/portfolio/blob/main/assets/Resume.pdf)
+- Resume: [assets/Resume.pdf](https://bkankim.github.io/assets/Resume.pdf)
 - Email: chillbkan@gmail.com
 - LinkedIn: https://www.linkedin.com/in/byeonghyeon-kim-7a1838389/
