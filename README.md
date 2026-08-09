@@ -22,4 +22,4 @@
 ## Links
 
 - Threads: [@sweet_bkan](https://www.threads.com/@sweet_bkan)
-- Email: official.bkan@gmail.com
+- Email: bk@bkan.dev
