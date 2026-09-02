@@ -22,4 +22,5 @@
 ## Links
 
 - Threads: [@sweet_bkan](https://www.threads.com/@sweet_bkan)
+- blog: [blog.bkan.dev](https://blog.bkan.dev)
 - Email: bk@bkan.dev
